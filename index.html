@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Power Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body data-theme="light">
+    <div class="container">
+        <h1 class="app-name">Power Calculator</h1>
+        <div class="calculator">
+            <input id="base" type="number" placeholder="Enter base" />
+            <input id="exponent" type="number" placeholder="Enter exponent" />
+            <div id="result-container">
+                <div id="result">Result: Enter values to see the result</div>
+                <button id="copy-button">Copy to Clipboard</button>
+            </div>
+            <!-- Alert Notification -->
+            <div class="notification" id="notification">Result copied to clipboard!</div>
+        </div>
+        <!-- Theme Toggle Button -->
+        <button id="theme-toggle">Toggle Theme</button>
+    </div>
+    <script src="main.js"></script>
+</body>
+
+</html>
