@@ -72,4 +72,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For any questions or feedback, please open an issue on the [GitHub repository](https://github.com/yourusername/power-calculator).
+For any questions or feedback, please open an issue on the [GitHub repository](https://github.com/otabekoff/power-calculator).
