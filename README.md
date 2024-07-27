@@ -68,7 +68,7 @@ If you'd like to contribute to this project, please fork the repository and subm
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/otabekoff/power-calculator?tab=MIT-1-ov-file) file for details.
 
 ## Contact
 
